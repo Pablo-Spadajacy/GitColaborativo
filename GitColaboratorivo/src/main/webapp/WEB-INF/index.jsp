@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>Esta es la lección de resolución de conflictos</h1>
+	<h2>Este es un título H2 que Cynthia creó</h2>
 </body>
 </html>
