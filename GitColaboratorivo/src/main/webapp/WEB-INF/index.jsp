@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>Esta es la lección de resolución de conflictos</h1>
+	<h2>Esto es un titulo de h2 por que no se me ocurre otra cosa</h2>
 </body>
 </html>
