@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Este es un cambio</h1>
+	<h1>Esta es la lección de resolución de conflictos</h1>
 </body>
 </html>
